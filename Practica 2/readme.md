@@ -17,8 +17,6 @@ _Software utilizado_
 
 # Ejercicios realizados 
 
-1. Visualización de una "X"
-Se implementó un patrón fijo sobre la matriz de LEDs para representar la letra "X". Mediante la activación selectiva de filas y columnas se logró formar la figura deseada, permitiendo comprender la forma en que se generan imágenes dentro de una matriz de LEDs.
+1. Visualización de una "X": Se implementó un patrón fijo sobre la matriz de LEDs para representar la letra "X". Mediante la activación selectiva de filas y columnas se logró formar la figura deseada, permitiendo comprender la forma en que se generan imágenes dentro de una matriz de LEDs.
 
-2. Despliegue secuencial de caracteres
-Se desarrolló una secuencia cíclica de caracteres en la matriz de LEDs, mostrando las letras A, N, C y H de manera consecutiva. Para cada letra se definió un patrón específico de iluminación, demostrando la capacidad del sistema para representar distintos caracteres mediante el control programado de la matriz.
+2. Despliegue secuencial de caracteres: Se desarrolló una secuencia cíclica de caracteres en la matriz de LEDs, mostrando las letras A, N, C y H de manera consecutiva. Para cada letra se definió un patrón específico de iluminación, demostrando la capacidad del sistema para representar distintos caracteres mediante el control programado de la matriz.
