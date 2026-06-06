@@ -1,4 +1,4 @@
-# Práctica 1 - Control de LEDs #
+# Práctica 1 - Control de LEDs 
 
 En esta práctica se realizaron ejercicios básicos de control de salidas digitales utilizando el microcontrolador PIC16F887. El objetivo fue familiarizarse con la configuración y manipulación de puertos digitales mediante el encendido y apagado de LEDs, implementando diferentes secuencias de operación cíclica. Las actividades permitieron comprender el funcionamiento de las salidas digitales y la generación de patrones visuales mediante programación embebida.
 
@@ -15,7 +15,7 @@ _Software utilizado_
 - Compilador XC8
 - Proteus Design Suite
 
-# _Ejercicios realizados_#
+# Ejercicios realizados
 
 1. Blinker con 4 LEDs
 Se implementó una secuencia básica de encendido y apagado utilizando cuatro LEDs conectados a las salidas digitales del microcontrolador. El programa ejecuta el cambio de estado de manera periódica, permitiendo observar el control individual y grupal de las salidas digitales.
