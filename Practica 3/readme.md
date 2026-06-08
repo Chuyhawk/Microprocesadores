@@ -20,3 +20,8 @@ _Software utilizado_
 1. Contador decimal: Se implementó un contador cíclico que muestra los números del 0 al 9 en el display de 7 segmentos. Una vez alcanzado el valor máximo, la secuencia regresa al cero y continúa repitiéndose de manera indefinida. Este ejercicio permitió comprender la relación entre los segmentos del display y los patrones necesarios para representar cada dígito decimal.
 
 2. Contador hexadecimal: Se desarrolló un contador hexadecimal capaz de mostrar los valores del 0 al 9 y las letras A a F en el display de 7 segmentos. Al finalizar la secuencia, el contador regresa al valor inicial y continúa su ejecución de forma cíclica. Esta actividad permitió ampliar el uso del display para representar sistemas numéricos distintos al decimal mediante patrones específicos de activación de segmentos.
+
+# Imágenes 
+<img width="437" height="323" alt="3_1" src="https://github.com/user-attachments/assets/a540e696-fee3-4da0-ac14-508b0f207424" />
+<img width="515" height="321" alt="3_3" src="https://github.com/user-attachments/assets/637b94a4-4df4-4c92-b2bb-d034b60b923e" />
+<img width="497" height="353" alt="3_2" src="https://github.com/user-attachments/assets/60e7cc28-8aea-4c01-82ac-1bc4e79fc0d0" />
