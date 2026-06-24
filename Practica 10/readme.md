@@ -21,6 +21,3 @@ _Software utilizado_
 1. Conteo de tiempo con Timer1: Se implementó un sistema de cronometraje utilizando el Timer1 del PIC16F887 para llevar la cuenta de los segundos y minutos transcurridos desde el encendido del circuito. La información fue mostrada en tiempo real en el display LCD, permitiendo observar la operación del temporizador y su aplicación en sistemas de medición de tiempo.
 
 2. Conteo de tiempo y monitoreo de voltaje: Se amplió el sistema anterior incorporando la lectura de un potenciómetro mediante el convertidor analógico-digital del microcontrolador. Además del conteo de segundos y minutos, el display LCD mostraba el valor de voltaje generado por el potenciómetro, el cual podía modificarse en tiempo real. Este ejercicio permitió integrar el uso de Timer1 con el ADC para desarrollar aplicaciones más completas de monitoreo y visualización.
-
-
-Repositorio desarrollado para la materia de Microprocesadores.
