@@ -19,3 +19,8 @@ _Software utilizado_
 # Ejercicio realizado 
 
 1. Se implementó un sistema de lectura analógica utilizando un potenciómetro conectado a una entrada ADC del microcontrolador. El valor leído fue convertido a voltaje y mostrado en tiempo real en un display LCD. A medida que se ajusta la posición del potenciómetro, el valor visualizado cambia de forma proporcional, permitiendo observar directamente la relación entre la señal analógica de entrada y su representación digital.
+
+# Imágenes 
+<img width="893" height="577" alt="image" src="https://github.com/user-attachments/assets/9ed6f19f-70a2-471e-84d2-ce1acbcb807e" />
+<img width="921" height="576" alt="image" src="https://github.com/user-attachments/assets/023f6e7c-bada-44f6-910c-57134bbd1506" />
+<img width="952" height="636" alt="image" src="https://github.com/user-attachments/assets/4db076b6-9440-4f73-96eb-a6d8c4699ec1" />
