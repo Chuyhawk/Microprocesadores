@@ -1,4 +1,4 @@
-# Descripción 
+# Práctica 7 - Lectura de Voltaje con Potenciómetro y Visualización en LCD
 
 En esta práctica se trabajó con la conversión analógica-digital (ADC) del microcontrolador PIC16F887 para leer el valor de voltaje generado por un potenciómetro. El objetivo fue comprender el funcionamiento de las entradas analógicas y su conversión a valores digitales, así como su representación en tiempo real mediante un display LCD. Esta actividad permitió integrar sensores analógicos con sistemas de visualización, reforzando conceptos de adquisición y procesamiento de señales.
 
