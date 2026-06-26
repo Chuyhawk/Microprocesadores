@@ -21,3 +21,6 @@ _Software utilizado_
 1. Movimiento cíclico de 0° a 180°: Se implementó un control automático del servomotor para realizar un recorrido angular desde 0° hasta 180° y posteriormente regresar a la posición inicial. Este movimiento fue ejecutado de forma cíclica y continua.
 
 2. Control angular con potenciómetro: Se desarrolló un sistema en el que un potenciómetro controla directamente el ángulo del servomotor. La posición del servomotor cambia de manera proporcional a la variación del potenciómetro, permitiendo un control manual y dinámico del actuador.
+
+# Imágenes
+<img width="352" height="537" alt="image" src="https://github.com/user-attachments/assets/1eb86d48-4f7c-468c-9142-cfc3cd652f0c" />
