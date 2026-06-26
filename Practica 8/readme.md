@@ -23,3 +23,6 @@ _Software utilizado_
 
 2. Cambio de canal y modo de visualización: Se desarrolló una interfaz de control utilizando dos botones. El primer botón permite alternar entre la visualización del voltaje correspondiente al potenciómetro 1 o al potenciómetro 2. El segundo botón cambia el formato de visualización de la señal seleccionada, permitiendo mostrar el valor en volts, porcentaje o en su valor digital crudo (ADC). Este ejercicio permitió combinar entradas digitales con señales analógicas para crear un sistema de visualización más dinámico e interactivo.
 
+# Imágenes
+<img width="403" height="662" alt="image" src="https://github.com/user-attachments/assets/3d46424f-7804-404a-9835-2777086cb8dc" />
+<img width="416" height="706" alt="image" src="https://github.com/user-attachments/assets/3bfc8f4d-4028-49fd-b938-e12fc11d275c" />
