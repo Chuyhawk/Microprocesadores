@@ -1,4 +1,4 @@
-# Descripción
+# Práctica 8 - Lectura de Múltiples Entradas Analógicas y Modos de Visualización
 
 En esta práctica se amplió el uso del convertidor analógico-digital (ADC) del microcontrolador PIC16F887 mediante la lectura de múltiples señales analógicas provenientes de potenciómetros. El objetivo fue visualizar distintos valores de entrada en un display LCD y desarrollar un sistema de navegación mediante botones para cambiar entre canales y modos de representación. Esta práctica permitió reforzar conceptos de multiplexación de entradas analógicas, procesamiento de señales y diseño de interfaces básicas con el usuario.
 
