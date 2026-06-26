@@ -23,3 +23,7 @@ Se implementó un videojuego de dos jugadores utilizando dos sistemas independie
 Al presionar el joystick, el jugador disparaba un proyectil representado como una bolita, la cual era enviada al sistema del jugador contrario mediante la comunicación establecida entre ambos microcontroladores. Una vez recibido el disparo, este aparecía en la pantalla opuesta y el segundo jugador debía mover su personaje para evitar el impacto.
 
 Si el jugador no lograba esquivar el proyectil, se determinaba su derrota, finalizando la partida. Este proyecto integró conceptos de transmisión de datos, control de eventos, lectura analógica y representación gráfica básica en LCD.
+
+# Imágenes 
+<img width="242" height="616" alt="image" src="https://github.com/user-attachments/assets/467fe74d-4330-4b12-a580-f7bc977baad9" />
+<img width="988" height="463" alt="image" src="https://github.com/user-attachments/assets/6dcf0e74-9dfc-44ad-a191-51b6d75b6e67" />
